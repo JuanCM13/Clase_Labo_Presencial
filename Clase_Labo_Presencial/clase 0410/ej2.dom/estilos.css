@@ -1,0 +1,30 @@
+#cards{
+    border: 1px solid black;
+
+}
+
+.card{
+    border: 1px solid black;
+    display: inline-block; 
+
+}
+
+/*Figcaption es el lema de abajo de la foto*/
+.card figcaption{ 
+    background-color: black;
+    color: yellow;    
+    padding: 20px;
+}
+
+.rotar-45{
+    transform: rotate(45deg);
+}
+
+
+
+
+
+
+
+
+
